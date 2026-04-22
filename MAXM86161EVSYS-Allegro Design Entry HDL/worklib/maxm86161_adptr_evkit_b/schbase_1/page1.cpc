@@ -1,0 +1,90 @@
+#ISCELL
+  mml maxim_b_size_cf *
+  *
+#CELL
+  mml header_12p *
+  page1_i18
+#CELL
+  mml header_16p *
+  page1_i19
+#ISCELL
+  standard gnd_signal *
+  page1_i48
+#ISCELL
+  standard gnd_signal *
+  page1_i50
+#CELL
+  mml 501616-2575 *
+  page1_i55
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i56
+#CELL
+  mml 501616-2575 *
+  page1_i57
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i58
+#ISCELL
+  standard gnd_signal *
+  page1_i59
+#ISCELL
+  standard gnd_signal *
+  page1_i60
+#ISCELL
+  standard gnd_signal *
+  page1_i61
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i62
+#ISCELL
+  standard gnd_signal *
+  page1_i63
+#CELL
+  mml tp *
+  page1_i64
+#ISCELL
+  standard gnd_signal *
+  page1_i65
+#CELL
+  mml tp *
+  page1_i66
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i67
+#CELL
+  mml tp *
+  page1_i68
+#CELL
+  mml tp *
+  page1_i69
+#CELL
+  mml tp *
+  page1_i70
+#CELL
+  mml tp *
+  page1_i71
+#CELL
+  mml tp *
+  page1_i72
+#CELL
+  mml tp *
+  page1_i73
+#CELL
+  mml tp *
+  page1_i74
+#ISCELL
+  standard gnd_signal *
+  page1_i75
+#CELL
+  mml res_smd *
+  page1_i76
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i77
+#CELL
+  mml res_smd *
+  page1_i78
+#ISCELL
+  mml mml_vcc_arrow *
+  page1_i79

@@ -1,0 +1,91 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 17.4-2019 S018 (3945310) 5/16/2021 on Thu Jul 15 07:58:53 2021
+#ISCELL
+  mml maxim_b_size_cf *
+  *
+#CELL
+  mml header_12p *
+  page2_i18
+#CELL
+  mml header_16p *
+  page2_i19
+#ISCELL
+  standard gnd_signal *
+  page2_i48
+#ISCELL
+  standard gnd_signal *
+  page2_i50
+#CELL
+  mml 501616-2575 *
+  page2_i55
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i56
+#CELL
+  mml 501616-2575 *
+  page2_i57
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i58
+#ISCELL
+  standard gnd_signal *
+  page2_i59
+#ISCELL
+  standard gnd_signal *
+  page2_i60
+#ISCELL
+  standard gnd_signal *
+  page2_i61
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i62
+#ISCELL
+  standard gnd_signal *
+  page2_i63
+#CELL
+  mml tp *
+  page2_i64
+#ISCELL
+  standard gnd_signal *
+  page2_i65
+#CELL
+  mml tp *
+  page2_i66
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i67
+#CELL
+  mml tp *
+  page2_i68
+#CELL
+  mml tp *
+  page2_i69
+#CELL
+  mml tp *
+  page2_i70
+#CELL
+  mml tp *
+  page2_i71
+#CELL
+  mml tp *
+  page2_i72
+#CELL
+  mml tp *
+  page2_i73
+#CELL
+  mml tp *
+  page2_i74
+#ISCELL
+  standard gnd_signal *
+  page2_i75
+#CELL
+  mml res_smd *
+  page2_i76
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i77
+#CELL
+  mml res_smd *
+  page2_i78
+#ISCELL
+  mml mml_vcc_arrow *
+  page2_i79

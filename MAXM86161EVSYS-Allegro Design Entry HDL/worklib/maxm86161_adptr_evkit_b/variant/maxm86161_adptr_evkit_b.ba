@@ -1,0 +1,86 @@
+( 
+	(global
+		("VARIANT_NAME" "MAXM86161_ADPTR_EVKIT_B")
+		("VARIANT_VIEW" "schmaxm86161_adptr_evkit_b_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "VARIANT")
+		("VARIANT_DNI" "DNI")
+		("VARIANT_DESIGNATOR" "DNI")
+	)
+	(props
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i57@mml.\\501616-2575\\(chips)"
+			("VARIANT" "DNI")
+			("MAXINV" "EH111000007024")
+			("VALUE" "FH39-25S-0.3SHW")
+			("JEDEC_TYPE" "EK_HRSC_FH39-25S-0_3SHW")
+			("PACK_TYPE" "SMT_ALLPINS")
+			("EST_STOCK_STATUS" "HQ(0):HBO(0):MPOC(0)")
+			("REFLOW" "-")
+			("SAP_STATUS" "NO")
+			("DESCRIPTION" "EVKIT PART - CONNECTOR; FEMALE; SMT; 0.3MM PITCH 1.1MM HEIGHT TOP AND BOTTOM CONTACT BACK-FLIP ACTUATOR FLEXIBLE PRINTED CIRCUIT CONNECTORS; RIGHT ANGLE; 25PINS; NOTE: CUSTOM PIN NUMBERING. SAME AS 5016162575")
+			("BOM" "Y")
+			("BEHAVIORAL_MODEL" "FALSE")
+			("PITCH" "0.3MM")
+			("EST_PRICE" "($1.8400)")
+			("PIN_COUNT" "25")
+			("MANUFACTURER" "HIROSE ELECTRIC CO LTD")
+			("AUTOMOTIVE" "NO")
+			("STATUS" "EVKIT-CUSTOM")
+			("VOLTAGE_RATING" "N/A")
+			("TEMP_RANGE" "-55 DEGC TO +85 DEGC")
+			("TOLERANCE" "N/A")
+			("LEAD_LENGTH" "N/A")
+			("MFG_PART_NUMBER" "FH39-25S-0.3SHW")
+			("DATASHEET_URL" "http://mpoctsg.maxim-ic.com/mpoc/inv/attachfile/attachfiledialog.php?pn=EH111000007024")
+			("LOCATION" "J2")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i55@mml.\\501616-2575\\(chips)"
+			("VARIANT" "DNI")
+			("LOCATION" "J1")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i66@mml.tp(chips)"
+			("LOCATION" "1V8")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i69@mml.tp(chips)"
+			("LOCATION" "ACCINTN")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i64@mml.tp(chips)"
+			("LOCATION" "GND")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i18@mml.header_12p(chips)"
+			("LOCATION" "J3")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i19@mml.header_16p(chips)"
+			("LOCATION" "J4")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i71@mml.tp(chips)"
+			("LOCATION" "MFIO")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i72@mml.tp(chips)"
+			("LOCATION" "OPTINT")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i76@mml.res_smd(chips)"
+			("LOCATION" "R1")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i78@mml.res_smd(chips)"
+			("LOCATION" "R2")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i70@mml.tp(chips)"
+			("LOCATION" "RSTN")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i73@mml.tp(chips)"
+			("LOCATION" "SCL")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i74@mml.tp(chips)"
+			("LOCATION" "SDA")
+		)
+		("@maxm86161_adptr_evkit_b_lib.maxm86161_adptr_evkit_b(sch_1):page2_i68@mml.tp(chips)"
+			("LOCATION" "VLED")
+		)
+	)
+)
